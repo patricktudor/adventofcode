@@ -7,8 +7,8 @@ import os
 from aocd.models import Puzzle
 import pandas as pd
 
-
 import config as cf
+
 
 # %%
 # read in test data
